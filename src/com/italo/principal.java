@@ -14,6 +14,7 @@ public class principal {
 		System.out.println("Nome: "+person.getNome());
 		System.out.println("Idade: "+person.getIdade()+" anos");
 		System.out.println("Sexo: "+person.getSexo());
+		System.out.println("Fim da impressao dos dados");
 	
 	}
 
